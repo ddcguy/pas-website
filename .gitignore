@@ -1,0 +1,23 @@
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor directories
+.vscode/
+.idea/
+
+# Claude Code
+.claude/
+
+# Logs
+*.log
+
+# Old/unused logo files (keeping only logo-transparent.png)
+logo/pasHeader.bmp
+logo/pasHeader2.bmp
+logo/vectorlogo - transparent.png
+logo/vectorlogo-2019.jpg
+
+# Claude Code skill file
+SKILL.md
